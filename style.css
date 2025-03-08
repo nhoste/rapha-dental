@@ -2752,7 +2752,7 @@ body,
 
 /* contact form alert */
 .contact-form .loader {
-  display: inline-block;
+  display: none;
   margin-left: 10px;
   margin-top: 5px;
   position: absolute;
